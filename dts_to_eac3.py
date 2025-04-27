@@ -17,7 +17,7 @@ conversions = {}
 # Configuration Telegram
 TELEGRAM_BOT_TOKEN = "YOUR TELEGRAM TOKEN"
 TELEGRAM_CHAT_ID = "YOUR CHAT ID"
-SEND_TELEGRAM_NOTIFICATION = "O"  # Initialisée à "N", changer en "O" pour envoyer des notifications
+SEND_TELEGRAM_NOTIFICATION = "N"  # Initialisée à "N", changer en "O" pour envoyer des notifications
 
 class VideoPath(BaseModel):
     path: str
