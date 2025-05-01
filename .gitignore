@@ -1,2 +1,4 @@
 start_api.sh
 venv/
+.venv/
+.idea/
